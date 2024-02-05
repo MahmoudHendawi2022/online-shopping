@@ -1,0 +1,24 @@
+.createProduct {
+    margin-top: 150px;
+}
+
+.createProduct form{
+    width: 100%;
+}
+.createProduct form input,.createProduct form select {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #dedddd;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    font-size: 18px;
+}
+
+.createProduct form input[type = "submit"]{
+    background-color: #333;
+    color: #fff;
+}
